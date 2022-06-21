@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 52ad9f27-b8db-4b4c-85da-a0b39dbac9d5
+      url: 'https://stellular-sopapillas-f5e863.netlify.app'
